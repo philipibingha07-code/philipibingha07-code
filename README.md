@@ -7,9 +7,11 @@
 
 
  - 🔭 **## All of my projects are available at "philipibingha07-code.**
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label"
 alt="philipibingha07-code" /> </p>
 alt="https://github.com/philipibingha07-code" /> </p>
+- alt="alt="https://github.com/philipibingha07-code" /> </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
