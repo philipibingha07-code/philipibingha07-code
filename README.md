@@ -5,7 +5,8 @@
 ### <h1 align="center ">Hi👋,I'm Philip</h1>
 <h3 align="center">I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI. Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label=Profile%20views&color=0e75b6&style=flat" alt="philipibingha07-code" /> </p>
+ - 🔭 ## All of my projects are available at **"philipibingha07-code.**
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label=Profile%20views&color=0e75b6&style=flat" alt="philipibingha07-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
 
