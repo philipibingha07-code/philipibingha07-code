@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Philip%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%7C%20Business%20Intelligence&descAlignY=60&descSize=18" alt="banner" width="100%"/>
-</p>
+</p> 
 
 ### <h1 align="center ">Hi👋,I'm Philip</h1>
 <h3 align="center">I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI. Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
