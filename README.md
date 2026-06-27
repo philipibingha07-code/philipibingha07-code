@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Problem%20Isolving%2👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%7C%20Business%20Intelligence&descAlignY=60&descSize=18" alt="banner" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Problem%20solving%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%7C%20Business%20Intelligence&descAlignY=60&descSize=18" alt="banner" width="100%"/> 
 </p> 
 
 ### <h1 align="center ">Hi👋,I'm Philip</h1>
@@ -7,10 +7,10 @@
 
 
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label"
-- 🔭 **## All of my projects are available at "philipibingha07-code.**
--  alt="philipibingha07-code" /> </p>
--  alt="https://github.com/philipibingha07-code" /> </p>
-- ://github.com/philipibingha07-code/metromove-transit-analytics" /> </p
+- 🔭 **## All of my projects are available HERE.**
+-  alt="https://github.com/philipibingha07-code" 
+- ""https://github.com/philipibingha07-code/metromove-transit-analytics"  
+- https://github.com/philipibingha07-code/ai-hiring-classifier
                                                                        
 
 
