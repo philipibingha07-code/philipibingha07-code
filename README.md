@@ -10,21 +10,21 @@
 </p>
 
 
-### <h1 align="center ">Hi,I'm Philip</h1>
-<h4 align="left">### I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI.
+ <h1 align="center ">Hi,I'm Philip</h1>
+<h4 align="left"> I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI.
  Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
 
 
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label"
-- 🔭 **## All of my projects are available HERE.**
--  alt="https://github.com/philipibingha07-code" 
-- ""https://github.com/philipibingha07-code/metromove-transit-analytics"  
+- 🔭 **All of my projects are available HERE.**
+-  ="https://github.com/philipibingha07-code" 
+- "https://github.com/philipibingha07-code/metromove-transit-analytics"  
 - https://github.com/philipibingha07-code/ai-hiring-classifier
                                                                        
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
 
-- 🔭 I'm currently working on **end-to-end data science projects, transforming complex datasets into actionable insights through machine             learning, data visualization, and predictive modeling.**
+-  I'm currently working on **end-to-end data science projects, transforming complex datasets into actionable insights through machine             learning, data visualization, and predictive modeling.**
 
 - <h3 align="left"> 💬 **Ask me about **Data analysis.**
 - <h3 align="left">📫 How to reach me **philipibingha07@gmail.com.**
