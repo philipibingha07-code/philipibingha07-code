@@ -3,10 +3,23 @@
 </p> 
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pheelz-a296a5380?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pheelz-a296a5380?utm_source=share_via&utm_content=profile&utm_medium=member_ios" height="30" width="100" /></a>
-<a href="https://fb.com/pheelz typa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pheelz typa" height="30" width="100" /></a>
-<a href="https://instagram.com/pheelz typa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pheelz typa" height="30" width="80" /></a>
-<a href="https://www.youtube.com/c/@nkofficiallfamilie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nkofficiallfamilie" height="30" width="80" /></a>
+
+<a href="https://www.linkedin.com/in/pheelz-a296a5380">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/pheelztypa">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/pheelztypa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@nkofficiallfamilie">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
 
