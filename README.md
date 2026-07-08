@@ -33,7 +33,7 @@
 -  ="https://github.com/philipibingha07-code" 
 - "https://github.com/philipibingha07-code/metromove-transit-analytics"  
 - https://github.com/philipibingha07-code/ai-hiring-classifier
-- hotelhaven-booking-intelligence/tree/main
+- https://github.com hotelhaven-booking-intelligence/tree/main
                                                                        
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
