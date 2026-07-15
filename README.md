@@ -34,6 +34,7 @@
 - "https://github.com/philipibingha07-code/metromove-transit-analytics"  
 - https://github.com/philipibingha07-code/ai-hiring-classifier
 - https://github.com/philipibingha07-code/-hotelhaven-booking-intelligence
+- https://github.com/philipibingha07-code/NovaPay-Fraud-Detection-System
                                                                        
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
