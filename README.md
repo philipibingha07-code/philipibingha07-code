@@ -28,16 +28,14 @@
  Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
 
 
--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipibingha07-code&label"
-- 🔭 **All of my projects are available HERE.**
--  ="https://github.com/philipibingha07-code" 
-- "https://github.com/philipibingha07-code/metromove-transit-analytics"  
-- https://github.com/philipibingha07-code/ai-hiring-classifier
-- https://github.com/philipibingha07-code/-hotelhaven-booking-intelligence
-- https://github.com/philipibingha07-code/NovaPay-Fraud-Detection-System
-                                                                       
+### 🔭 All of my projects are available Below:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipibingha07-code" alt="philipibingha07-code" /></a> </p>
+- [MetroMove Transit Analytics](https://github.com/philipibingha07-code/metromove-transit-analytics)
+- [AI Hiring Classifier](https://github.com/philipibingha07-code/ai-hiring-classifier)
+- [HotelHaven Booking Intelligence](https://github.com/philipibingha07-code/-hotelhaven-booking-intelligence)
+- [NovaPay Fraud Detection System](https://github.com/philipibingha07-code/NovaPay-Fraud-Detection-System)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
 
 -  I'm currently working on **end-to-end data science projects, transforming complex datasets into actionable insights through machine             learning, data visualization, and predictive modeling.**
 
