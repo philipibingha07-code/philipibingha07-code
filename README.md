@@ -34,6 +34,7 @@
 - [AI Hiring Classifier](https://github.com/philipibingha07-code/ai-hiring-classifier)
 - [HotelHaven Booking Intelligence](https://github.com/philipibingha07-code/-hotelhaven-booking-intelligence)
 - [NovaPay Fraud Detection System](https://github.com/philipibingha07-code/NovaPay-Fraud-Detection-System)
+- - [NovaPay Fraud Detection System](https://github.com/philipibingha07-code/NovaPay-Fraud-Detection-System)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
 
